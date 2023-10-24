@@ -1,0 +1,383 @@
+[
+    {
+      "restaurant_id": 1,
+      "place": "CityCenter",
+      "address": "123 Main Street",
+      "menu": [
+        {
+          "item": "Burger",
+          "price": 10
+        },
+        {
+          "item": "Pizza",
+          "price": 12
+        },
+        {
+          "item": "Salad",
+          "price": 8
+        }
+      ]
+    },
+    {
+      "restaurant_id": 2,
+      "place": "Downtown Diner",
+      "address": "456 Elm Street",
+      "menu": [
+        {
+          "item": "Steak",
+          "price": 15
+        },
+        {
+          "item": "Pasta",
+          "price": 13
+        },
+        {
+          "item": "Soup",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "restaurant_id": 3,
+      "place": "Café de Paris",
+      "address": "789 Oak Avenue",
+      "menu": [
+        {
+          "item": "Croissant",
+          "price": 5
+        },
+        {
+          "item": "Quiche",
+          "price": 9
+        },
+        {
+          "item": "Coffee",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "restaurant_id": 4,
+      "place": "Mamma Mia Pizzeria",
+      "address": "1010 Maple Drive",
+      "menu": [
+        {
+          "item": "Margherita Pizza",
+          "price": 11
+        },
+        {
+          "item": "Calzone",
+          "price": 14
+        },
+        {
+          "item": "Garlic Bread",
+          "price": 4
+        }
+      ]
+    },
+    {
+      "restaurant_id": 5,
+      "place": "Sushi Paradise",
+      "address": "1212 Cedar Lane",
+      "menu": [
+        {
+          "item": "Sashimi Platter",
+          "price": 18
+        },
+        {
+          "item": "Tempura Rolls",
+          "price": 16
+        },
+        {
+          "item": "Miso Soup",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "restaurant_id": 6,
+      "place": "Taco Haven",
+      "address": "1414 Pine Street",
+      "menu": [
+        {
+          "item": "Taco Salad",
+          "price": 9
+        },
+        {
+          "item": "Burrito",
+          "price": 10
+        },
+        {
+          "item": "Chips & Salsa",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "restaurant_id": 7,
+      "place": "Golden Wok",
+      "address": "1616 Birch Avenue",
+      "menu": [
+        {
+          "item": "Kung Pao Chicken",
+          "price": 12
+        },
+        {
+          "item": "Vegetable Lo Mein",
+          "price": 11
+        },
+        {
+          "item": "Egg Drop Soup",
+          "price": 4
+        }
+      ]
+    },
+    {
+      "restaurant_id": 8,
+      "place": "BBQ Barn",
+      "address": "1818 Oak Street",
+      "menu": [
+        {
+          "item": "Pulled Pork Sandwich",
+          "price": 14
+        },
+        {
+          "item": "Ribs",
+          "price": 16
+        },
+        {
+          "item": "Coleslaw",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "restaurant_id": 9,
+      "place": "Crispy Fried Chicken",
+      "address": "2020 Walnut Avenue",
+      "menu": [
+        {
+          "item": "Fried Chicken Bucket",
+          "price": 13
+        },
+        {
+          "item": "Mashed Potatoes",
+          "price": 5
+        },
+        {
+          "item": "Gravy",
+          "price": 2
+        }
+      ]
+    },
+    {
+      "restaurant_id": 10,
+      "place": "Seafood Delight",
+      "address": "2222 Pine Lane",
+      "menu": [
+        {
+          "item": "Lobster Bisque",
+          "price": 9
+        },
+        {
+          "item": "Crab Legs",
+          "price": 17
+        },
+        {
+          "item": "Clam Chowder",
+          "price": 7
+        }
+      ]
+    },
+    {
+      "restaurant_id": 11,
+      "place": "Tandoori Palace",
+      "address": "2323 Cedar Drive",
+      "menu": [
+        {
+          "item": "Chicken Tikka Masala",
+          "price": 14
+        },
+        {
+          "item": "Naan Bread",
+          "price": 5
+        },
+        {
+          "item": "Vegetable Curry",
+          "price": 12
+        }
+      ]
+    },
+    {
+      "restaurant_id": 12,
+      "place": "Mediterranean Bistro",
+      "address": "2424 Elm Street",
+      "menu": [
+        {
+          "item": "Hummus",
+          "price": 6
+        },
+        {
+          "item": "Gyros",
+          "price": 11
+        },
+        {
+          "item": "Tabbouleh Salad",
+          "price": 7
+        }
+      ]
+    },
+    {
+      "restaurant_id": 13,
+      "place": "Baker's Delight",
+      "address": "2525 Walnut Avenue",
+      "menu": [
+        {
+          "item": "Chocolate Cake",
+          "price": 8
+        },
+        {
+          "item": "Apple Pie",
+          "price": 7
+        },
+        {
+          "item": "Cupcakes",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "restaurant_id": 14,
+      "place": "Vegetarian Oasis",
+      "address": "2626 Pine Lane",
+      "menu": [
+        {
+          "item": "Veggie Wrap",
+          "price": 9
+        },
+        {
+          "item": "Quinoa Salad",
+          "price": 10
+        },
+        {
+          "item": "Green Smoothie",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "restaurant_id": 15,
+      "place": "Pho King",
+      "address": "2727 Cedar Drive",
+      "menu": [
+        {
+          "item": "Pho Noodle Soup",
+          "price": 10
+        },
+        {
+          "item": "Spring Rolls",
+          "price": 6
+        },
+        {
+          "item": "Vietnamese Coffee",
+          "price": 4
+        }
+      ]
+    },
+    {
+      "restaurant_id": 16,
+      "place": "Bistro 123",
+      "address": "2828 Elm Street",
+      "menu": [
+        {
+          "item": "Filet Mignon",
+          "price": 20
+        },
+        {
+          "item": "Creme Brulee",
+          "price": 9
+        },
+        {
+          "item": "French Onion Soup",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "restaurant_id": 17,
+      "place": "Mongolian Grill",
+      "address": "2929 Walnut Avenue",
+      "menu": [
+        {
+          "item": "Create Your Stir-Fry",
+          "price": 13
+        },
+        {
+          "item": "Egg Rolls",
+          "price": 6
+        },
+        {
+          "item": "Hot & Sour Soup",
+          "price": 4
+        }
+      ]
+    },
+    {
+      "restaurant_id": 18,
+      "place": "Dessert Heaven",
+      "address": "3030 Pine Lane",
+      "menu": [
+        {
+          "item": "Ice Cream Sundae",
+          "price": 7
+        },
+        {
+          "item": "Chocolate Brownie",
+          "price": 5
+        },
+        {
+          "item": "Fruit Parfait",
+          "price": 6
+        }
+      ]
+    },
+    {
+      "restaurant_id": 19,
+      "place": "Burger Shack",
+      "address": "3131 Cedar Drive",
+      "menu": [
+        {
+          "item": "Cheeseburger",
+          "price": 8
+        },
+        {
+          "item": "Onion Rings",
+          "price": 4
+        },
+        {
+          "item": "Milkshake",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "restaurant_id": 20,
+      "place": "Noodle House",
+      "address": "3232 Elm Street",
+      "menu": [
+        {
+          "item": "Ramen Bowl",
+          "price": 11
+        },
+        {
+          "item": "Gyoza Dumplings",
+          "price": 7
+        },
+        {
+          "item": "Miso Soup",
+          "price": 4
+        }
+      ]
+    }
+  ]
+  

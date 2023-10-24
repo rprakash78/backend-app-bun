@@ -19,6 +19,10 @@ app.get("/detail/:id", (req: Request, res: Response) => {
   res.json(restaurant);
 });
 
+app.get("/", (req: Request, res: Response) => {
+  res.json("Hello From vercel");
+});
+
 app.listen(port, () => {
   console.log(`Listening on port ${port}...`);
 });
